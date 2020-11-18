@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Checking if there are updates
-
 # Apply Updates
 yum -y upgrade
 yum -y update
